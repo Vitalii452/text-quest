@@ -1,0 +1,1 @@
+{"id":12,"elements":[{"id":1,"text":"Выберите самый подходящий тип питания:","dialogueOptions":[{"id":1,"text":"A- морепродукты;","nextDialogueId":0,"score":10},{"id":2,"text":"B- еда на вынос;","nextDialogueId":0,"score":30},{"id":3,"text":"C- фастфуд (McDonalds);","nextDialogueId":0,"score":40},{"id":4,"text":"D- супы.","nextDialogueId":0,"score":20}]}]}

@@ -1,0 +1,1 @@
+{"id":19,"elements":[{"id":1,"text":"Ваше отношение к классической музыке?","dialogueOptions":[{"id":1,"text":"A- она расслабляет;","nextDialogueId":0,"score":20},{"id":2,"text":"B- ненавижу её!","nextDialogueId":0,"score":40},{"id":3,"text":"C- обожаю её!","nextDialogueId":0,"score":10},{"id":4,"text":"D- нормальное.","nextDialogueId":0,"score":30}]}]}

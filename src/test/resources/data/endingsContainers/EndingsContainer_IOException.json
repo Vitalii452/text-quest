@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "elements": [
+    {
+      "id": 1,
+      "minScore": 0,
+      "maxScore": 10,
+      "text": "Ending for score range 0-10."
+    },
+    {
+      "id": 2,
+      "minScore": 10,
+      "maxScore": 20,
+      "text": "Ending for score range 10-20."
+    },
+    {
+      "id": 3,
+      "minScore": 20,

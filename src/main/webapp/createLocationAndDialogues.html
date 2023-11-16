@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Создание Квеста</title>
+    <link rel="stylesheet" href="css/createLocationAndDialogues.css">
+    <script src="scripts/locationAndDialoguesCreation.js"></script>
+</head>
+<body>
+<form id="createQuestForm">
+    <div>
+        <label for="locationName">Название локации:</label>
+        <input type="text" id="locationName" name="locationName">
+    </div>
+
+    <div id="paragraphs">
+        <label for="paragraph1">Параграф 1:</label>
+        <input type="text" id="paragraph1" name="paragraphs">
+
+    </div>
+    <button type="button" onclick="addParagraph()">Добавить параграф</button>
+
+    <div id="dialogues">
+
+    </div>
+    <button type="button" onclick="addDialogue()">Добавить диалог</button>
+
+
+    <p>После заполнения информации о локации нажмите "Сохранить локацию", чтобы продолжить.</p>
+    <p>При создании опции диалога, если указать следующий айди = 0, произойдёт переход к концовке.</p>
+    <input type="submit" value="Сохранить локацию">
+
+    <button type="button" onclick="window.location.href='/addEndings'">Перейти к созданию концовки</button>
+</form>
+
+</body>
+</html>
